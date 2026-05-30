@@ -94,9 +94,6 @@ notas.txt
 - Java 17+
 - IntelliJ IDEA
 
----
-
-## 👨‍🎓 Autor
 
 Desenvolvido como trabalho acadêmico — POO I, Anhanguera.
 ```
